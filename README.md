@@ -19,6 +19,7 @@
 
 # Background
 ![Tanzania](/reports/figures/Tanzania.jpg)
+
 Tanzania is a developing country in East Africa, and is home to the tallest mountain on the continent.  Due to it's geographical location, many citizens are forced to walk three to miles round trip a day on order to acquire water, which is not even guaranteed to be safe for consumption.  This lack of access to drinkable water, combined with inadequate sanitation and poor hygiene leads to a very serious health crisis in which charity organizations are doing their best to combat.  One such organization is the Tanzania Water Project, which does it's best in an attempt to install numerous waterpoints around the country.  Waterpoints are wells in which locals can use to draw water from, heavily reducing the time spent each day drawing water as well as providing safer, more hygenic water to use.  However, many of the water wells have become either non functional or require repairs.  As it is both time and money costly venture to go to each one in order to check their condition, we needed a way to predict which wells were fine at the time being, and which wells were more likely to require repairs.
 
 # Tanzanian Water Well Challenge
