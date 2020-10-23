@@ -15,8 +15,6 @@
 - [Tanzania Water Well Competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
 - [Tanzania Water Well Project ]( https://www.tanzaniawaterproject.org/ )
 
-![Tanzania](/
-
 # Background
 ![Tanzania](/reports/figures/Tanzania.jpg)
 
