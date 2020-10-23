@@ -26,6 +26,11 @@ Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian
 
 ![population_and_water_amount](/reports/figures/population_and_water_amount.png)
 
+![legend](/reports/figures/legend.png)
+![wells_per_year](/reports/figures/wells_per_year.png)
+![pump_types](/reports/figures/pump_types.png)
+![source_and_quality](/reports/figures/source_and_quality.png)
+
 # tanzania modeling
 
 # tanzanian results
