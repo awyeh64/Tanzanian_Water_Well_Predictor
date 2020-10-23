@@ -12,7 +12,7 @@
 - [Sindhu's EDA]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/Sindhu_EDA.ipynb )
 
 ### Helpful Resources
-- [Tanzania Water Well Project ] ( https://www.tanzaniawaterproject.org/ )
+- [Tanzania Water Well Project ]( https://www.tanzaniawaterproject.org/ )
 
 # tanzania background
 
