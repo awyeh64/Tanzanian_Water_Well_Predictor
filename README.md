@@ -31,17 +31,24 @@ Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian
 
 # Tanzania EDA
 
-![population_and_water_amount](/reports/figures/population_and_water_amount.png)
 
+To help predict the status of wells that we cannot visibly see, we can first look at trends in past data.  In the following models, we will use the legend below.  Orange colored imagery symbolizes functional wells, blue colored imagery symbolizes non-functional wells, and grey colored imagery symbolizes functional wells that need repair.
 
 <img src = '/reports/figures/legend.png' alt = 'legend' width = '200'>
 
 ![wells_per_year](/reports/figures/wells_per_year.png)
+
+Right off the start, we look at how the well age can affect the status.  While the number of wells that are 'non functional' and 'functional but needs repair' has remained relatively stable, in comparison the number of wells that are functional has exponentially grown as the years go by.  We can assume that newer or younger wells are more likely to be functional than not.
+
 ![pump_types](/reports/figures/pump_types.png)
+
+Here we look to see if the type of the pump can affect the state.  Most of the pumps here are relatively balanced in their results, though gravity pumps and handpumps having slightly more reliability for being functional.  Something that does stand out however is that wells with an 'unknown' pump are vastly more likely to broken compared to the others.
+
 ![source_and_quality](/reports/figures/source_and_quality.png)
 
-# Tanzania Modeling
+Now we look at how the quality of the water as well as its source could affect its state.  The rows symbolize the two water source types, while the columns symbolize the quality of the water.  We can see from the middle column that only milky or colored water has significantly different results when looking at the water source.  In terms of water quality on the other hand, it's easy to see that water that is good quality or has fluoride has a much higher chance to have a functioning water pipe, while pipes with salty or unknown water quality have a much higher chance of being non functional.
 
+# Tanzania Modeling
 <img src = '/reports/figures/legend_models.png' alt = 'legend_models' width = '200'>
 
 ![1_model_FSM](/reports/figures/1_model_FSM.png)
@@ -52,7 +59,7 @@ Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian
 ![6_model_RF](/reports/figures/6_model_RF.png)
 ![7_model_LGB](/reports/figures/7_model_LGB.png)
 
-# tanzanian results
+# Tanzania Model Prediction Results
 ![Tanzania_final](/reports/figures/Tanzania_final.jpg)
 
-# conclusion
+# Conclusion
