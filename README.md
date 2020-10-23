@@ -12,6 +12,7 @@
 - [Sindhu's EDA]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/Sindhu_EDA.ipynb )
 
 ### Helpful Resources
+- [Tanzania Water Well Competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
 - [Tanzania Water Well Project ]( https://www.tanzaniawaterproject.org/ )
 
 ![Tanzania](/
@@ -22,7 +23,7 @@ Tanzania is a developing country in East Africa, and is home to the tallest moun
 
 # Tanzanian Water Well Challenge
 
-Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian Ministry of Water, the competition 'Pump it Up: Data Mining the Water Table' has been hosted.  
+Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian Ministry of Water, the competition 'Pump it Up: Data Mining the Water Table' has been hosted.  Competitors will be given sample data from current existing wells that we know the condition of.
 
 ![Tanzania_train](/reports/figures/Tanzania_train.jpg)
 
