@@ -36,8 +36,8 @@ Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian
 ![pump_types](/reports/figures/pump_types.png)
 ![source_and_quality](/reports/figures/source_and_quality.png)
 
-# tanzania modeling
-![legend](/reports/figures/legend.png)
+# Tanzania Modeling
+![legend_models](/reports/figures/legend_models.png)
 
 ![1_model_FSM](/reports/figures/1_model_FSM.png)
 ![2_model_LR](/reports/figures/2_model_LR.png)
