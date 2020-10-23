@@ -4,7 +4,7 @@
 # Table of Contents
 
 ### Reports
--   [Placeholder](Placeholder)
+-   [Placeholder](https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/ayeh_eda.ipynb)
 
 
 ### Exploratory Notebooks
