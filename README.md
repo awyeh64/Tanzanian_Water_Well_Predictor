@@ -26,7 +26,7 @@ Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian
 
 ![Tanzania_train](/reports/figures/Tanzania_train.jpg)
 
-This is a map of wells in the country that we aim to predict the status of.
+To judge our model, we are given data on wells in which we do not know the status of.  We will aim to predict the status of these wells with the best performance that we can.  This is a map showing all the locations of wells with an unknown status that we aim to fill in.
 
 ![Tanzania_test](/reports/figures/Tanzania_test.jpg)
 
@@ -89,7 +89,7 @@ After that our next model utilized KNN.  While nothing significant happened, thi
 
 # Tanzania Model Prediction Results
 
-
+Using our model above, we took 
 
 ![Tanzania_final](/reports/figures/Tanzania_final.jpg)
 
