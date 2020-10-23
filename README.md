@@ -36,17 +36,19 @@ To help predict the status of wells that we cannot visibly see, we can first loo
 
 <img src = '/reports/figures/legend.png' alt = 'legend' width = '200'>
 
-![wells_per_year](/reports/figures/wells_per_year.png)
-
 Right off the start, we look at how the well age can affect the status.  While the number of wells that are 'non functional' and 'functional but needs repair' has remained relatively stable, in comparison the number of wells that are functional has exponentially grown as the years go by.  We can assume that newer or younger wells are more likely to be functional than not.
 
-![pump_types](/reports/figures/pump_types.png)
+![wells_per_year](/reports/figures/wells_per_year.png)
 
 Here we look to see if the type of the pump can affect the state.  Most of the pumps here are relatively balanced in their results, though gravity pumps and handpumps having slightly more reliability for being functional.  Something that does stand out however is that wells with an 'unknown' pump are vastly more likely to broken compared to the others.
 
-![source_and_quality](/reports/figures/source_and_quality.png)
+![pump_types](/reports/figures/pump_types.png)
 
 Now we look at how the quality of the water as well as its source could affect its state.  The rows symbolize the two water source types, while the columns symbolize the quality of the water.  We can see from the middle column that only milky or colored water has significantly different results when looking at the water source.  In terms of water quality on the other hand, it's easy to see that water that is good quality or has fluoride has a much higher chance to have a functioning water pipe, while pipes with salty or unknown water quality have a much higher chance of being non functional.
+
+![source_and_quality](/reports/figures/source_and_quality.png)
+
+
 
 # Tanzania Modeling
 <img src = '/reports/figures/legend_models.png' alt = 'legend_models' width = '200'>
