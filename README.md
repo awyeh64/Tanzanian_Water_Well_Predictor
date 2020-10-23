@@ -22,11 +22,11 @@ Tanzania is a developing country in East Africa, and is home to the tallest moun
 
 # Tanzanian Water Well Challenge
 
-Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian Ministry of Water, the competition 'Pump it Up: Data Mining the Water Table' has been hosted.  Competitors will be given sample data from current existing wells that we know the condition of.
+Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian Ministry of Water, the competition 'Pump it Up: Data Mining the Water Table' has been hosted.  Contestants will be given sample data about current existing wells that we know the condition of.  Data we receive ranges from the group that funded the well, longitude/latitude coordinates, and water well pump type, and participants are expected to utilize this information to create a predictive model that can find the status of a well just by being given preliminary information. The following is a comprehensive map of all the known wells in the country, as well as their state.
 
 ![Tanzania_train](/reports/figures/Tanzania_train.jpg)
 
-
+This is a map of wells in the country that we aim to predict the status of.
 
 ![Tanzania_test](/reports/figures/Tanzania_test.jpg)
 
