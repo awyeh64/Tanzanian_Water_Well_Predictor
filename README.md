@@ -40,6 +40,7 @@ Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian
 
 # Tanzania Modeling
 ![legend_models](/reports/figures/legend_models.png)
+<img src = '/reports/figures/legend_models.png' alt = 'legend_models' width = '200'>
 
 ![1_model_FSM](/reports/figures/1_model_FSM.png)
 ![2_model_LR](/reports/figures/2_model_LR.png)
