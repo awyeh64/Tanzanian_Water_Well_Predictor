@@ -87,12 +87,11 @@ After that our next model utilized KNN.  While nothing significant happened, thi
 ![7_model_LGB](/reports/figures/7_model_LGB.png)
 
 
-# Tanzania Model Prediction Results
+# Tanzania Model Prediction Results and Conclusion
 
-Using our model above, we took 
+Using our model above, we took the input data and predicted the status of all of them.
 
 ![Tanzania_final](/reports/figures/Tanzania_final.jpg)
 
 
-# Conclusion
 ![elephant2](https://pixy.org/src/25/253641.jpg)
