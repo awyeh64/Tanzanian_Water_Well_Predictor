@@ -13,3 +13,14 @@
 ### Helpful Resources
 - 
 
+# tanzania background
+
+# tanzania water well challenge
+
+# tanzania eda
+
+# tanzania modeling
+
+# tanzanian results
+
+# conclusion
