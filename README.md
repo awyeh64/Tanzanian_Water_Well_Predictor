@@ -16,13 +16,15 @@
 
 # Background
 
-Tanzania is a developing country in East Africa, and is home to the tallest mountain on the continent.  Due to it's geographical location, many citizens are forced to walk three to miles round trip a day on order to acquire water, which is not even guaranteed to be safe for consumption.  This lack of access to drinkable water, combined with inadequate sanitation and poor hygiene leads to a very serious health crisis in which charity organizations are doing their best to combat.
+Tanzania is a developing country in East Africa, and is home to the tallest mountain on the continent.  Due to it's geographical location, many citizens are forced to walk three to miles round trip a day on order to acquire water, which is not even guaranteed to be safe for consumption.  This lack of access to drinkable water, combined with inadequate sanitation and poor hygiene leads to a very serious health crisis in which charity organizations are doing their best to combat.  One such organization is the Tanzania Water Project, which does it's best in 
 
 # Tanzanian Water Well Challenge
 
 Through a collaboration from Taarifa, a rwandan news platform, and the Tanzanian Ministry of Water, the competition 'Pump it Up: Data Mining the Water Table' has been hosted.
 
-# tanzania eda
+# Tanzania EDA
+
+![population_and_water_amount](/reports/figures/population_and_water_amount.png)
 
 # tanzania modeling
 
