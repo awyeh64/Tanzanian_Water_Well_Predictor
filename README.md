@@ -4,8 +4,8 @@
 # Table of Contents
 
 ### Reports
-- [Placeholder](asdf)
-- [Presentation]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/reports/Tanzanian_Water_Well_Data_Presentation.pdf )
+- [Presentation Notebook](asdf)
+- [Presentation Powerpoint]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/reports/Tanzanian_Water_Well_Data_Presentation.pdf )
 
 ### Exploratory Notebooks
 - [Andrew's EDA]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/ayeh_eda.ipynb )
