@@ -1,5 +1,5 @@
 # Tanzanian Water Well Predictor README.md
-
+![elephant1](https://timbuktutravel.imgix.net/countries/kodak_images/000/000/005/original/Elephants-Serengeti-Safari-timbuktu.jpg?w=1420&h=946&auto=format&crop=fit&fit=min&dpr=1&q=50)
 
 # Table of Contents
 
