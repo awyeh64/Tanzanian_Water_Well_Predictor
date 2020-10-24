@@ -72,26 +72,35 @@ After that our next model utilized KNN.  While nothing significant happened, thi
 
 ![4_model_KNN](/reports/figures/4_model_KNN.png)
 
-(VE explanation)
+After creating the simple models, we took it a step further by combining models with emsembling methods
+
+We started with a voting ensemble.
+
+To explain the idealogy behind voting ensembles, I'll start with an analagy. In a game show like who wants to be a millionare, a contestant can choose to "ask the audience". The contestant usually chooses the answer most voted for by the audience. According to stats from TV studios, the audience chooses the right answer over 90% of the time. This is due to a concept known as "wisdom of the crowds" referring to the collective intelligence of a group being superior to a single expert. Voting Ensembles use wisdom of the crowds to make its prediction based on the mode (or majority prediction) of multiple individual models.
 
 ![5_model_VE](/reports/figures/5_model_VE.png)
 
-(RF explanation)
+Next we utilize Random Forest Classifiers, which is created by making a forest of many decision tree models, each with a random sample of the data as well as random features selected. This cross validation technique results in a powerful model.
 
 ![6_model_RF](/reports/figures/6_model_RF.png)
 
 # Tanzania Final Model
 
-(LGB explanation)
+Last, we used Light Gradient Boosting. Boosting classifiers take an iterative approach to modeling, first creating a base model, tweaking it for better performance through a feedback loop, and creating the next better model from those results. It goes through this process in our case 1000 times. Light Gradient Boost was released by Microsoft in 2017. It is light in terms of space and optimized for parallel processing, making it fast, efficient, and useful for large data sets.
 
 ![7_model_LGB](/reports/figures/7_model_LGB.png)
 
 
 # Tanzania Model Prediction Results and Conclusion
 
-Using our model above, we took the input data and predicted the status of all of them.
+Using our model above, we took the input data and predicted the functioning status of the waterpoints in the test dataset with an estimated accuracy of 78%. These are our predictions, represented geospacially.
 
 ![Tanzania_final](/reports/figures/Tanzania_final.jpg)
 
+The water situation in Tanzania is dire. Villagers(mostly women) have to walk 3-5 miles every day to get buckets of water from wells to provide for their families. The don't have the technology to transport the water easily. They have to carry heavy buckets by hand, balancing it all the way back home, exposed to the dangers of the world. After all that, they are not even garuanteed that water quality is safe for consumption. Water poverty causes poor agricultural conditions, slumped economies, poor education, malnutrition and in many cases, fatality.
+
+What can you do to help?
+
+There is a an initiative in place called the [Tanzania Water Well Project ]( https://www.tanzaniawaterproject.org/ ). You can visit this link to find out more about the situation and what you can do to help.
 
 ![elephant2](https://pixy.org/src/25/253641.jpg)
